@@ -1,3 +1,5 @@
+Credit Card Transaction Analysis with SQL
+
 Welcome to my inaugural SQL project utilizing MS SQL Server! This project is designed to strengthen my proficiency in a range of SQL techniques, including Data Query Language (DQL) commands such as SELECT, WHERE, CASE, window functions, JOINs, and Common Table Expressions (CTEs). The primary focus is on analyzing credit card transaction data to reveal key insights and trends, providing an excellent platform for refining my SQL expertise.
 
 Project Overview: The Credit Card Transaction Analysis project leverages SQL to analyze transaction data with the aim of uncovering patterns and insights that inform financial and business decisions. By examining a dataset of anonymized credit card transactions, the project explores spending behavior, transaction frequency, and customer segmentation, providing a comprehensive analysis of credit card usage trends. This analysis serves as a valuable resource for financial institutions to optimize their services and enhance customer experience.
